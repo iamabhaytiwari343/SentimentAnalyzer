@@ -1,1 +1,2 @@
-# SentimentAnalyser
+# SentimentAnalyzer
+
